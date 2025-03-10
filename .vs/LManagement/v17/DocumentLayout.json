@@ -1,0 +1,170 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\bachb\\OneDrive\\Desktop\\LManagement\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F8D9BC62-27C1-4495-BA02-CF08933DD282}|LManagement\\LManagement.csproj|c:\\users\\bachb\\onedrive\\desktop\\lmanagement\\lmanagement\\former.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{F8D9BC62-27C1-4495-BA02-CF08933DD282}|LManagement\\LManagement.csproj|solutionrelative:lmanagement\\former.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F8D9BC62-27C1-4495-BA02-CF08933DD282}|LManagement\\LManagement.csproj|C:\\Users\\bachb\\OneDrive\\Desktop\\LManagement\\lmanagement\\former.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F8D9BC62-27C1-4495-BA02-CF08933DD282}|LManagement\\LManagement.csproj|solutionrelative:lmanagement\\former.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F8D9BC62-27C1-4495-BA02-CF08933DD282}|LManagement\\LManagement.csproj|C:\\Users\\bachb\\OneDrive\\Desktop\\LManagement\\lmanagement\\userupdate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F8D9BC62-27C1-4495-BA02-CF08933DD282}|LManagement\\LManagement.csproj|solutionrelative:lmanagement\\userupdate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F8D9BC62-27C1-4495-BA02-CF08933DD282}|LManagement\\LManagement.csproj|C:\\Users\\bachb\\OneDrive\\Desktop\\LManagement\\lmanagement\\loginform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F8D9BC62-27C1-4495-BA02-CF08933DD282}|LManagement\\LManagement.csproj|solutionrelative:lmanagement\\loginform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F8D9BC62-27C1-4495-BA02-CF08933DD282}|LManagement\\LManagement.csproj|C:\\Users\\bachb\\OneDrive\\Desktop\\LManagement\\lmanagement\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F8D9BC62-27C1-4495-BA02-CF08933DD282}|LManagement\\LManagement.csproj|solutionrelative:lmanagement\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F8D9BC62-27C1-4495-BA02-CF08933DD282}|LManagement\\LManagement.csproj|C:\\Users\\bachb\\OneDrive\\Desktop\\LManagement\\lmanagement\\databook.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F8D9BC62-27C1-4495-BA02-CF08933DD282}|LManagement\\LManagement.csproj|solutionrelative:lmanagement\\databook.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F8D9BC62-27C1-4495-BA02-CF08933DD282}|LManagement\\LManagement.csproj|C:\\Users\\bachb\\OneDrive\\Desktop\\LManagement\\lmanagement\\home.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F8D9BC62-27C1-4495-BA02-CF08933DD282}|LManagement\\LManagement.csproj|solutionrelative:lmanagement\\home.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F8D9BC62-27C1-4495-BA02-CF08933DD282}|LManagement\\LManagement.csproj|C:\\Users\\bachb\\OneDrive\\Desktop\\LManagement\\lmanagement\\userupdate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{F8D9BC62-27C1-4495-BA02-CF08933DD282}|LManagement\\LManagement.csproj|solutionrelative:lmanagement\\userupdate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 339,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Home.cs",
+              "DocumentMoniker": "C:\\Users\\bachb\\OneDrive\\Desktop\\LManagement\\LManagement\\Home.cs",
+              "RelativeDocumentMoniker": "LManagement\\Home.cs",
+              "ToolTip": "C:\\Users\\bachb\\OneDrive\\Desktop\\LManagement\\LManagement\\Home.cs",
+              "RelativeToolTip": "LManagement\\Home.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACEAAABEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-26T15:40:09.973Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "DataBook.cs",
+              "DocumentMoniker": "C:\\Users\\bachb\\OneDrive\\Desktop\\LManagement\\LManagement\\DataBook.cs",
+              "RelativeDocumentMoniker": "LManagement\\DataBook.cs",
+              "ToolTip": "C:\\Users\\bachb\\OneDrive\\Desktop\\LManagement\\LManagement\\DataBook.cs",
+              "RelativeToolTip": "LManagement\\DataBook.cs",
+              "ViewState": "AQIAABMAAAAAAAAAAAA8wEUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-26T14:33:30.581Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "MainForm.cs",
+              "DocumentMoniker": "C:\\Users\\bachb\\OneDrive\\Desktop\\LManagement\\LManagement\\MainForm.cs",
+              "RelativeDocumentMoniker": "LManagement\\MainForm.cs",
+              "ToolTip": "C:\\Users\\bachb\\OneDrive\\Desktop\\LManagement\\LManagement\\MainForm.cs",
+              "RelativeToolTip": "LManagement\\MainForm.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAABsAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-04T14:56:20.736Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "LoginForm.cs",
+              "DocumentMoniker": "C:\\Users\\bachb\\OneDrive\\Desktop\\LManagement\\LManagement\\LoginForm.cs",
+              "RelativeDocumentMoniker": "LManagement\\LoginForm.cs",
+              "ToolTip": "C:\\Users\\bachb\\OneDrive\\Desktop\\LManagement\\LManagement\\LoginForm.cs",
+              "RelativeToolTip": "LManagement\\LoginForm.cs",
+              "ViewState": "AQIAADQAAAAAAAAAAAAQwFoAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-03T14:54:24.587Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "UserUpdate.cs",
+              "DocumentMoniker": "C:\\Users\\bachb\\OneDrive\\Desktop\\LManagement\\LManagement\\UserUpdate.cs",
+              "RelativeDocumentMoniker": "LManagement\\UserUpdate.cs",
+              "ToolTip": "C:\\Users\\bachb\\OneDrive\\Desktop\\LManagement\\LManagement\\UserUpdate.cs",
+              "RelativeToolTip": "LManagement\\UserUpdate.cs",
+              "ViewState": "AQIAAHUAAAAAAAAAAAAswHgAAAA1AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-03T14:28:10.341Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Former.cs",
+              "DocumentMoniker": "C:\\Users\\bachb\\OneDrive\\Desktop\\LManagement\\LManagement\\Former.cs",
+              "RelativeDocumentMoniker": "LManagement\\Former.cs",
+              "ToolTip": "C:\\Users\\bachb\\OneDrive\\Desktop\\LManagement\\LManagement\\Former.cs",
+              "RelativeToolTip": "LManagement\\Former.cs",
+              "ViewState": "AQIAABkAAAAAAAAAAAAYwFoAAAAOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-27T09:24:03.824Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Former.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\bachb\\OneDrive\\Desktop\\LManagement\\LManagement\\Former.cs",
+              "RelativeDocumentMoniker": "LManagement\\Former.cs",
+              "ToolTip": "C:\\Users\\bachb\\OneDrive\\Desktop\\LManagement\\LManagement\\Former.cs [Design]",
+              "RelativeToolTip": "LManagement\\Former.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-27T09:01:30.795Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "UserUpdate.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\bachb\\OneDrive\\Desktop\\LManagement\\LManagement\\UserUpdate.cs",
+              "RelativeDocumentMoniker": "LManagement\\UserUpdate.cs",
+              "ToolTip": "C:\\Users\\bachb\\OneDrive\\Desktop\\LManagement\\LManagement\\UserUpdate.cs [Design]",
+              "RelativeToolTip": "LManagement\\UserUpdate.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-03T14:28:00.324Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 61,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
